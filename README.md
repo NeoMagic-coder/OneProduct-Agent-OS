@@ -1,6 +1,14 @@
 # OneProduct-Agent-OS 🚀
  <img width="2752" height="1536" alt="unnamed" src="https://github.com/user-attachments/assets/a2ab8538-b636-4554-8a1d-a4c7e551caa4" />
 
+
+https://github.com/user-attachments/assets/18a0610f-4d7d-4487-bbad-29c8a21c746b
+
+
+
+https://github.com/user-attachments/assets/586ef1a7-1fca-437c-81f8-339a56ed2b03
+
+
 [![Gemini API](https://img.shields.io/badge/Powered%20by-Gemini%20API-blue)](https://ai.google.dev/)
 [![LangChain](https://img.shields.io/badge/Framework-LangChain-green)](https://www.langchain.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
